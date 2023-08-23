@@ -1,7 +1,7 @@
 {
   "APIs": {
     "zenz": "https://api.zahwazein.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "zenzkey_ce9b0f4a9e7d"
   },
   "options": {
     "autoRead": true,
@@ -10,12 +10,12 @@
     "limitGame": 20
   },
   "exif": {
-    "packname": "Killua Zoldyck",
+    "packname": "Tamaes",
     "author": "https://api.zahwazein.xyz"
   },
   "owner": [
     "62812XXX"
   ],
   "timezone": "Asia/Jakarta",
-  "footer": "Powered by https://api.zahwazein.xyz"
+  "footer": "Deployed By Tamaes"
 }
